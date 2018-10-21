@@ -1,6 +1,6 @@
--------------------------------------------------------------------------------
--- Copyright (c) Wheberth Dias <wheberth@gmail.com>
--------------------------------------------------------------------------------
+--    triphasepwm - Hardware description in vhdl of a 3-phase pwm modulator
+--    Copyright (C) 2018 Wheberth Dias <wheberth@gmail.com>
+-----------------------------------------------------------------------------
 --    This program is free software: you can redistribute it and/or modify
 --    it under the terms of the GNU General Public License as published by
 --    the Free Software Foundation, either version 3 of the License, or
@@ -13,8 +13,7 @@
 --
 --    You should have received a copy of the GNU General Public License
 --    along with this program.  If not, see <https://www.gnu.org/licenses/>.
--------------------------------------------------------------------------------
-
+------------------------------------------------------------------------------
 
 library ieee;
 use ieee.std_logic_1164.all;
