@@ -59,7 +59,7 @@ architecture behavior of tb_pwm_mod is
         );
         -- concurrent statements
 
-        tb_mode <= '1' after 20 us; 
+        tb_mode <= '1' after 200 us; 
 
 
         -- processess
